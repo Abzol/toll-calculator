@@ -1,0 +1,9 @@
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/bin/Debug/netstandard2.0/tollbooth.deps.json
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/bin/Debug/netstandard2.0/tollbooth.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/bin/Debug/netstandard2.0/tollbooth.pdb
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.csprojAssemblyReference.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.csproj.CoreCompileInputs.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.AssemblyInfoInputs.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.AssemblyInfo.cs
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth/obj/Debug/netstandard2.0/tollbooth.pdb

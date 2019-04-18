@@ -1,0 +1,17 @@
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.csprojAssemblyReference.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.csproj.CoreCompileInputs.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.AssemblyInfoInputs.cache
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.AssemblyInfo.cs
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.tests.deps.json
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.tests.runtimeconfig.json
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.tests.runtimeconfig.dev.json
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.tests.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.tests.pdb
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/bin/Debug/netcoreapp2.2/tollbooth.pdb
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.csproj.CopyComplete
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.dll
+/mnt/e/Wolfie/Desktop/tollbooth/tollbooth.tests/obj/Debug/netcoreapp2.2/tollbooth.tests.pdb
